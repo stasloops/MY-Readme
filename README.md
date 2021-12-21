@@ -11,13 +11,13 @@
 
 ### Мои Работы:
 - Сайт портфолио
-[Код](https://github.com/stasloops/portfolio) | [Демо](https://portfolio-stasloops.vercel.app/) 
+[Код](https://github.com/stasloops/portfolio) | [Посетить](https://portfolio-stasloops.vercel.app/) 
 
 - Поиск фильмов 
-[Код](https://github.com/stasloops/search-movies) | [Демо](https://search-movie-lilac.vercel.app/) 
+[Код](https://github.com/stasloops/search-movies) | [Посетить](https://search-movie-lilac.vercel.app/) 
 
- - Магазин игр
-[Код](https://github.com/stasloops/store-cart) | [Демо](https://store-cart.vercel.app/) 
+- Магазин игр
+[Код](https://github.com/stasloops/store-cart) | [Посетить](https://store-cart.vercel.app/) 
 
 
 
